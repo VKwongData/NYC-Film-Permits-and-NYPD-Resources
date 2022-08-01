@@ -1,4 +1,4 @@
-# Analysis of the Burden of Film Permits on NYPD Resources
+# Analysis of the Burden of Film Permits on NYPD Resources Using R Markdown
 
 This is a repository for my final class project for the course STA/OPR9750 Software Tools for Data Analysis (Fall 2021 semester) at the Zicklin School of Business. This was an individual class project and involved using R Markdown to create a PDF report.
 
